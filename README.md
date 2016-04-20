@@ -9,6 +9,10 @@ Linkkejä talteen:
 http://highscalability.com/blog/2012/4/9/the-instagram-architecture-facebook-bought-for-a-cool-billio.html
 
 
+### IOT
+
+https://kfalck.net/2016/01/17/valoautomaatiota-aws-iot-alustalla
+
 
 
 https://github.com/educloudalliance/xroad-rest-gateway
