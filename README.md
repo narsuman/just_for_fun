@@ -8,6 +8,9 @@ Linkkejä talteen:
 
 http://highscalability.com/blog/2012/4/9/the-instagram-architecture-facebook-bought-for-a-cool-billio.html
 
+### Automation.
+
+http://www.tivi.fi/Kaikki_uutiset/kasin-todella-hidasta-nain-pilvituska-helpottui-6538496
 
 ### IOT
 
